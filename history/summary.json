@@ -58,35 +58,39 @@
     "url": "https://www.114913.xyz",
     "icon": "https://favicons.githubusercontent.com/www.114913.xyz",
     "slug": "1-14-9-13",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 56,
-    "timeWeek": 110,
-    "timeMonth": 120,
-    "timeYear": 139,
-    "dailyMinutesDown": {}
+    "time": 140,
+    "timeDay": 134,
+    "timeWeek": 122,
+    "timeMonth": 123,
+    "timeYear": 140,
+    "dailyMinutesDown": {
+      "2021-03-08": 0
+    }
   },
   {
     "name": "1 14 9 13 redirects",
     "url": "https://r.114913.xyz",
     "icon": "https://favicons.githubusercontent.com/r.114913.xyz",
     "slug": "1-14-9-13-redirects",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 60,
-    "timeWeek": 121,
-    "timeMonth": 125,
-    "timeYear": 127,
-    "dailyMinutesDown": {}
+    "time": 128,
+    "timeDay": 134,
+    "timeWeek": 132,
+    "timeMonth": 128,
+    "timeYear": 128,
+    "dailyMinutesDown": {
+      "2021-03-08": 0
+    }
   }
 ]
