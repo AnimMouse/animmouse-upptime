@@ -5,15 +5,32 @@ repo: animmouse-upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: AnimMouse Main
+    method: HEAD
     url: https://www.animmouse.com
   - name: AnimMouse Paraphrase
+    method: HEAD
     url: https://paraphrase.animmouse.com
-  - name: Atrack
+  - name: Atrack Tracker
+    method: HEAD
     url: https://atrack.eu.org
+  - name: Atrack Tracker News
+    method: HEAD
+    url: https://news.atrack.eu.org
   - name: 1 14 9 13
+    method: HEAD
     url: https://www.114913.xyz
   - name: 1 14 9 13 redirects
+    method: HEAD
     url: https://r.114913.xyz
+  - name: Happy Tree Friends SWF
+    method: HEAD
+    url: https://happytreefriends.114913.xyz
+  - name: Personal Site
+    method: HEAD
+    url: $SECRET_SITE
+  - name: Mystical Rose Website
+    method: HEAD
+    url: https://www.mysticalroseschoolofcaloocan.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
